@@ -1,0 +1,9 @@
+- 👋 Olá, sou @impressaographsilk
+- 👀 Estou interessado em aprender desenvolvimento de macros para CorelDraw e outros softwares gráficos ou aplicações que ajudem a gerenciar setores de de pessoal e produção em geral
+- 🌱 Atualmente estou aprendendo ...
+- 💞️ Estou procurando colaborar em ...
+- 📫 Como chegar até mim ...
+-
+impressaographsilk/impressaographsilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
